@@ -1,0 +1,23 @@
+# License
+
+This repository is dual-licensed:
+
+- **Documentation** — everything under [`docs/`](docs/), this README, and all
+  prose content describing philosophy, standards, and process — is licensed
+  under the [Creative Commons Attribution 4.0 International License
+  (CC BY 4.0)](LICENSES/CC-BY-4.0.txt).
+- **Templates, scripts, and code** — everything under `templates/` (once
+  populated) and any executable tooling in this repository — is licensed
+  under the [MIT License](LICENSES/MIT.txt).
+
+Unless a file states otherwise, assume prose/documentation is CC BY 4.0 and
+templates/scripts/code are MIT.
+
+```
+SPDX-License-Identifier: CC-BY-4.0 AND MIT
+```
+
+Full license texts live in [`LICENSES/`](LICENSES/):
+
+- [`LICENSES/CC-BY-4.0.txt`](LICENSES/CC-BY-4.0.txt)
+- [`LICENSES/MIT.txt`](LICENSES/MIT.txt)
